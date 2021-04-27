@@ -12,14 +12,16 @@ import java.util.Objects;
 public class Singleton {
 
     public static void main(String[] args) {
-        System.out.println(LazySingleton.getInstance());
+
+
+        /*System.out.println(LazySingleton.getInstance());
         System.out.println(LazySingleton.getInstance());
 
         System.out.println(new Singleton());
         System.out.println(new Singleton());
 
         System.out.println(HungrySingleton.getInstance());
-        System.out.println(HungrySingleton.getInstance());
+        System.out.println(HungrySingleton.getInstance());*/
 
     }
 
